@@ -1,6 +1,6 @@
 const add = require('../main');
 
-it ('should add two numbers', () => {
+it ('To test adding two numbers', () => {
 	expect(add(2,3)).toBe(5);
 });
 
